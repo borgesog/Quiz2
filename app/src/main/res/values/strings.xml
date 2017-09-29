@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Quizzz</string>
+    <string name="question">Question</string>
+    <string name="button">check</string>
+    <string name="question_content">Which is the capital of Catalonia</string>
+    <string name="correct">Very good!</string>
+    <string name="incorrect">Incorrect</string>
+
+    <array name="answers">
+        <item>Calafell</item>
+        <item>Ripoll</item>
+        <item>Barcelona</item>
+        <item>Madrid</item>
+    </array>
+
+    <integer name="correct_answer">2</integer>
+
+
+
+
+
+
+</resources>
